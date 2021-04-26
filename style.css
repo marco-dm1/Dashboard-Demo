@@ -19,8 +19,11 @@
     margin-left: 5%;
 }
 
-.nav-image{
-    
+.nav-img{
+   padding-top: 90%;
+   max-width: 15%;
+   height: auto;
+   
 }
 
 #content{
